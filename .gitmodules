@@ -1,0 +1,3 @@
+[submodule "submod"]
+	path = submod
+	url = git@github.com:4siNL/submod.git
